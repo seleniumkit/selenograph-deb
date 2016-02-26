@@ -1,0 +1,7 @@
+target/lib usr/share/grid-router
+target/selenograph-deb.war usr/share/grid-router
+target/jetty-runner.jar usr/share/grid-router
+conf/application.properties etc/grid-router
+conf/jetty.xml etc/grid-router
+conf/log4j.properties etc/grid-router
+conf/selenograph.properties etc/grid-router
