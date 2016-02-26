@@ -1,3 +1,9 @@
+yandex-selenograph (1.0-3) trusty; urgency=low
+
+  * Fix upstart script
+
+ -- Ivan Krutov <vania-pooh@yandex-team.ru>  Fri, 26 Feb 2016 18:46:00 +0000
+
 yandex-selenograph (1.0-2) trusty; urgency=low
 
   * Initial release

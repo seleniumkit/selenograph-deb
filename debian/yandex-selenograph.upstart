@@ -16,5 +16,5 @@ script
     JAVA_ARGS="$GC_OPTS $MEMORY_OPTS -Djava.net.preferIPv6Addresses=true"
     JAVA_ARGS="$JAVA_ARGS -Dlog4j.configuration=file:/etc/grid-router/log4j.properties"
 
-    java $JAVA_ARGS -jar /usr/share/grid-router/jetty-runner.jar --classes /etc/grid-router --port 4444 --config /etc/grid-router/jetty.xml /usr/share/grid-router/grid-router-deb.war >> /var/log/grid-router/grid-router.log 2>&1
+    java $JAVA_ARGS -jar /usr/share/grid-router/jetty-runner.jar --classes /etc/grid-router --port 4444 --config /etc/grid-router/jetty.xml /usr/share/grid-router/selenograph-deb.war >> /var/log/grid-router/grid-router.log 2>&1
 end script
