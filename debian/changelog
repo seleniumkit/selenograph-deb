@@ -1,3 +1,9 @@
+yandex-selenograph (1.2-1) trusty; urgency=low
+
+  * Release 1.2
+
+ -- Ivan Krutov <vania-pooh@yandex-team.ru>  Fri, 22 Jul 2016 12:32:00 +0000
+
 yandex-selenograph (1.1-1) trusty; urgency=low
 
   * Newer release
